@@ -43,8 +43,8 @@ char auth[] = "f22dd762fcb04dc2918b1b2f0ee75345"; //Enter the Auth code which wa
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "hello";  //Enter your WIFI Name
-char pass[] = "subhamsamir";  //Enter your WIFI Password
+char ssid[] = "zero";  //Enter your WIFI Name
+char pass[] = "sam@1230";  //Enter your WIFI Password
 
 #define DHTPIN 2          // Digital pin 4
 
